@@ -5,7 +5,7 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>JSP Page</title>
+        <title>7.2.3 C Login Cookies</title>
     </head>
     <body>
         <h1>Menú</h1>
